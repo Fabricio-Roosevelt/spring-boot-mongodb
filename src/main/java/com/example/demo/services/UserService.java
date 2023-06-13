@@ -18,4 +18,8 @@ public class UserService {
 		return repo.findAll();
 	}
 
+	public List<User> findAll() {
+		return null;
+	}
+
 }
